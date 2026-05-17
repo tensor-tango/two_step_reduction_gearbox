@@ -1,0 +1,41 @@
+Dimension are specified in mm and deg
+
+Gear A (pinion):
+	No. of Teeth: 17
+	Module: 2
+	Pressure Angle: 20
+	Pitch diameter: 34
+	Outside diameter: 38
+	Root diameter: 29
+	Base diameter: 31.95
+	Face width: 15
+
+Gear B:
+	No. of Teeth: 56
+	Module: 2
+	Pressure Angle: 20
+	Pitch diameter: 112
+	Outside diameter: 116
+	Root diameter: 107
+	Base diameter: 107
+	Face width: 15
+
+Gear C:
+	No. of Teeth: 18
+	Module: 2
+	Pressure Angle: 20
+	Pitch diameter: 36
+	Outside diameter: 40
+	Root diameter: 31
+	Base diameter: 33.825
+	Face width: 15
+
+Gear D:
+	No. of Teeth: 73
+	Module: 2
+	Pressure Angle: 20
+	Pitch diameter: 146
+	Outside diameter: 150
+	Root diameter: 140.98
+	Base diameter: 137.2
+	Face width: 15
