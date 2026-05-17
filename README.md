@@ -1,7 +1,7 @@
-# Brief Introductory
+# Project Overview
 Two-stage reduction gearbox with target ratio 13:1 designed in SOLIDWORKS
 
-Below is the kinematic demonstartion of the gearbox, with initial pinion speed of 100rpm
+Below is the kinematic demonstration of the gearbox, with initial pinion speed of 100rpm
 ![Kinematics_demo](gearbox_movement_gif.gif)
 
 Below is one of the photos, which demonstrates the exploded view of the gearbox
@@ -11,9 +11,9 @@ Below is one of the blueprints, which demonstrates the technical drawing of lowe
 ![Blueprint_demo](./blueprints/Lower_Housing_Part-1.png)
 
 Technical info:
-1. Actual bearings were replaced to the costemtic ones
-2. Used material is alloy steel
-3. Actual ratio of the gearbox is 13.36:1, which gives 2.77% of the uncertainty
+1. Actual bearings were replaced to the simplified bearing placeholders based on standard envelope dimensions
+2. Material is assigned for CAD visualization only. Final material selection was not part of this study.
+3. Actual ratio of the gearbox is 13.36:1, which gives 2.77% deviation from the target ratio
 
 # Gears Info
 Dimension are specified in mm and deg
