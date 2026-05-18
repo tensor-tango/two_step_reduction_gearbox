@@ -67,12 +67,12 @@ Output speed:
 Simplified tangential tooth load estimation:
 Assumption of Input Torque as $1Nm$
 - $F_tA = 2 × 1 / 0.034 = 58.8$ N
-- $T_{intermediate} = 1 × 3.294 × 0.95 = 3.13$ Nm
+- $T_{intermediate} = 1 \cdot 3.294 × 0.95 = 3.13$ Nm
 - $F_tC = 2 × 3.13 / 0.036 = 173.9$ N
 
 Radial gear force estimation:
-- $F_rA = 58.8 × tan(20°) = 21.4$ N
-- $F_rC = 173.9 × tan(20°) = 63.3$ N
+- $F_rA = 58.8 \cdot tan(20°) = 21.4$ N
+- $F_rC = 173.9 \cdot tan(20°) = 63.3$ N
 
 Bearing reaction estimation (for the second stage):
 - $F_res = (173.9² + 63.3²)^{1/2} = 185.1$ N
