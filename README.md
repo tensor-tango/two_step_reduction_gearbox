@@ -40,7 +40,7 @@ Below is one of the blueprints, which demonstrates the technical drawing of lowe
 
 # Bearings information
 The bearing geometry in this project is simplified and used as placeholder geometry for CAD layout purposes.
-The selected envelope dimensions correspond approximately to standard deep groove ball bearings:
+The selected envelope dimensions correspond to standard deep groove ball bearings:
 1. 6004: 20×42×12 mm
 2. 6005: 25×47×12 mm
 
