@@ -45,10 +45,10 @@ The selected envelope dimensions correspond approximately to standard deep groov
 2. 6005: 25×47×12 mm
 
 # Gear calculations
-Stage 1: 56 / 17 = 3.294
-Stage 2: 73 / 18 = 4.056
-Total ratio: 3.294 $\cdot$ 4.056 = 13.36:1
-Deviation from target 13:1 = +2.77%
+- Stage 1: 56 / 17 = 3.294
+- Stage 2: 73 / 18 = 4.056
+- Total ratio: 3.294 $\cdot$ 4.056 = 13.36:1
+- Deviation from target 13:1 = +2.77%
 
 # Gears Info
 Dimension are specified in mm and deg
