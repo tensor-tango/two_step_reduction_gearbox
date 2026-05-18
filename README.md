@@ -62,7 +62,7 @@ Center distances:
 - $a_2 = \frac{dC + dD}{2} = \frac{36 + 146}{2} = 91$ mm
 
 Output speed:
-- $n_out = 100 / 13.36 = 7.485$ rpm
+- $n_{out} = 100 / 13.36 = 7.485$ rpm
 
 Simplified tangential tooth load estimation:
 Assumption of Input Torque as $1Nm$
