@@ -52,7 +52,7 @@ Ratio:
 - Deviation from target 13:1 = +2.77%
 
 Pitch diameter and center distances:
-- $a_1$ = (dA + dB) / 2 = (34 + 112) / 2 = 73 mm
+- $a_1$ = \frac{(dA + dB)}{2} = (34 + 112) / 2 = 73 mm
 - $a_2$ = (dC + dD) / 2 = (36 + 146) / 2 = 91 mm
 
 # Gears Info
