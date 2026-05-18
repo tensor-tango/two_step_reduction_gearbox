@@ -45,10 +45,15 @@ The selected envelope dimensions correspond to standard deep groove ball bearing
 2. 6005: 25×47×12 mm
 
 # Gear calculations
+Ratio:
 - Stage 1: 56 / 17 = 3.294
 - Stage 2: 73 / 18 = 4.056
 - Total ratio: 3.294 $\cdot$ 4.056 = 13.36:1
 - Deviation from target 13:1 = +2.77%
+
+Pitch diameter and center distances:
+- $a_1$ = (dA + dB) / 2 = (34 + 112) / 2 = 73 mm
+- $a_2$ = (dC + dD) / 2 = (36 + 146) / 2 = 91 mm
 
 # Gears Info
 Dimension are specified in mm and deg
