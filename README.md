@@ -37,8 +37,8 @@ Below is one of the blueprints, which demonstrates the technical drawing of lowe
 | 12 | Retaining ring for 20 mm shaft, DIN471 | `retaining_ring_1.SLDPRT` | 4 | Simplified standard component | Spring steel | Used for axial retention |
 | 13 | Retaining ring for 25 mm shaft, DIN 471 | `retaining_ring_2.SLDPRT` | 2 | Simplified standard component | Spring steel | Used for axial retention |
 | 14 | M5 hex head bolt | 7 | Standard hardware | Steel, class 8.8, zinc-plated | Used to fasten upper and lower housing parts |
-| 15 | M5 washer | 14 | Standard hardware | Steel, zinc-plated | Optional washer under bolt head |
-| 16 | M5 hex nut | 7 | Standard hardware | Steel, class 8.8,  zinc-plated | Required if the lower housing is not threaded |
+| 15 | M5 washer | |14 | Standard hardware | Steel, zinc-plated | Optional washer under bolt head |
+| 16 | M5 hex nut | | 7 | Standard hardware | Steel, class 8.8,  zinc-plated | Required if the lower housing is not threaded |
 
 # Bearings information
 The bearing geometry in this project is simplified and used as placeholder geometry for CAD layout purposes.
