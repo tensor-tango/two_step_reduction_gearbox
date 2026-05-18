@@ -1,5 +1,7 @@
 # Project Overview
-Two-stage reduction gearbox with target ratio 13:1 designed in SOLIDWORKS
+This project was developed as a portfolio engineering case study to demonstrate practical CAD design skills, mechanical reasoning and the ability to create employer-relevant engineering documentation.
+The purpose of this project is not only to show a 3D model, but to demonstrate the practical value I can bring as an employee: creating structured CAD assemblies, preparing technical drawings, documenting design assumptions, organizing a bill of materials and communicating engineering decisions clearly.
+Used software: SOLIDWORKS
 
 Below is the kinematic demonstration of the gearbox, with initial pinion speed of 100rpm
 ![Kinematics_demo](gearbox_movement_gif.gif)
@@ -18,7 +20,7 @@ Below is one of the blueprints, which demonstrates the technical drawing of lowe
 5. Tight-fit for housing fastener bolts was assumed
 6. Lubrication assumption: Lithium-EP 2
 
-# BOM (Bills Of Materials)
+# BOM (Bill Of Materials)
 | Item No. | Part Name | File Name | Qty. | Category | Material / Assumption | Notes |
 |---:|---|---|---:|---|---|---|
 | 1 | Lower housing part | `lower_part.SLDPRT` | 1 | Custom designed part | Aluminum 6061-T6 / aluminum alloy | Lower half of split gearbox housing |
