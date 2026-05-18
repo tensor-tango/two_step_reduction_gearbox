@@ -1,6 +1,6 @@
 # Project Overview
 This project was developed as a portfolio engineering case study to demonstrate practical CAD design skills, mechanical reasoning and the ability to create employer-relevant engineering documentation.
-The purpose of this project is not only to show a 3D model, but to demonstrate the practical value I can bring as an employee: creating structured CAD assemblies, preparing technical drawings, documenting design assumptions, organizing a bill of materials and communicating engineering decisions clearly.
+The purpose of this project is not only to show a 3D model, but to demonstrate the practical value I can bring as an employee: designing mechanical parts, creating structured CAD assemblies, preparing technical drawings, documenting design assumptions, organizing a bill of materials and communicating engineering decisions clearly.
 Used software: SOLIDWORKS
 
 Below is the kinematic demonstration of the gearbox, with initial pinion speed of 100rpm
