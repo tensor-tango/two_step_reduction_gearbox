@@ -44,16 +44,38 @@ The selected envelope dimensions correspond to standard deep groove ball bearing
 1. 6004: 20×42×12 mm
 2. 6005: 25×47×12 mm
 
-# Gear calculations
-Ratio:
+# Calculations
+Gear ratio:
 - Stage 1: 56 / 17 = 3.294
 - Stage 2: 73 / 18 = 4.056
 - Total ratio: 3.294 $\cdot$ 4.056 = 13.36:1
 - Deviation from target 13:1 = +2.77%
 
-Pitch diameter and center distances:
-- $a_1 = \frac{(dA + dB)}{2} = (34 + 112) / 2 = 73$ mm
-- $a_2$ = (dC + dD) / 2 = (36 + 146) / 2 = 91 mm
+Pitch diameter:
+- $dA = 2 \cdot 17 = 34$ mm
+- $dB = 2 \cdot 56 = 112$ mm
+- $dC = 2 \cdot 18 = 36$ mm
+- $dD = 2 \cdot 73 = 146$ mm
+
+Center distances:
+- $a_1 = \frac{dA + dB}{2} = \frac{34 + 112}{2} = 73$ mm
+- $a_2 = \frac{dC + dD}{2} = \frac{36 + 146}{2} = 91$ mm
+
+Output speed:
+- $n_out = 100 / 13.36 = 7.485$ rpm
+
+Simplified tangential tooth load estimation:
+Assumption of Input Torque as $1Nm$
+- $F_tA = 2 × 1 / 0.034 = 58.8$ N
+- $T_intermediate = 1 × 3.294 × 0.95 = 3.13$ Nm
+- $F_tC = 2 × 3.13 / 0.036 = 173.9$ N
+
+Radial gear force estimation:
+- $F_rA = 58.8 × tan(20°) = 21.4$ N
+- $F_rC = 173.9 × tan(20°) = 63.3$ N
+
+Bearing reaction estimation (for the second stage):
+- $F_res = sqrt(173.9² + 63.3²) = 185.1$ N
 
 # Gears Info
 Dimension are specified in mm and deg
