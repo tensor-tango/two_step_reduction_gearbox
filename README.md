@@ -40,7 +40,7 @@ Below is one of the blueprints, which demonstrates the technical drawing of lowe
 | 15 | M5 washer | |14 | Standard hardware | Steel, zinc-plated | Optional washer under bolt head |
 | 16 | M5 hex nut | | 7 | Standard hardware | Steel, class 8.8,  zinc-plated | Required if the lower housing is not threaded |
 
-#FEN-Study
+# FEM-Studies
 A simplified static FEM study was performed to visualize stress concentration in the gear tooth contact regions.
 
 Below is one of the screenshots, which demonstrates the local tooth - stress conecetration for the first stage of the gearbox
