@@ -6,9 +6,6 @@ Used software: SOLIDWORKS
 Below is one of the screenshots, which demonstrates the exploded view of the gearbox
 ![Blueprint_demo](./screenshots/v1.png)
 
-Below is one of the blueprints, which demonstrates the technical drawing of lower housing part
-![Blueprint_demo](./blueprints/lower_housing_part.png)
-
 # Technical Notice
 1. Actual bearings were replaced to the simplified bearing placeholders based on standard envelope dimensions
 2. Material is assigned for CAD visualization only. Final material selection was not part of this study.
