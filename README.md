@@ -53,8 +53,8 @@ The full-view screenshots with the results of FEM-study for both of the stage ca
 
 | FEM Case | Load setup | Max von Mises | Yield strength | Safety Factor (FoS) |
 |---|---|---|---|---|
-| Stage 1 | 1$N\cdot$m torque on Gear A, Gear B constrained | 22.7 MPa | 220.6MPa | 9.7 |
-| Stage 2 | 3.13$N\cdot$m torque on Gear C, Gear D constrained | 17.4 MPa | 220.6 MPa | 12.7 |
+| Stage 1 | 1 $N\cdot m$ torque on Gear A, Gear B constrained | 22.7 MPa | 220.6MPa | 9.7 |
+| Stage 2 | 3.13 $N\cdot m$ torque on Gear C, Gear D constrained | 17.4 MPa | 220.6 MPa | 12.7 |
 
 It was assumed the input torque 1$N\cdot m$ on Gear A, so that in the second stage the Gear C has torque approx 3.13 $N \cdot m$.
 According to this study, the maximal input torque could be  9.7$N\cdot m$.
