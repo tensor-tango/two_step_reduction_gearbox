@@ -6,7 +6,7 @@ Used software: SOLIDWORKS
 Below is the kinematic demonstration of the gearbox, with initial pinion speed of 100rpm
 ![Kinematics_demo](gearbox_movement_gif.gif)
 
-Below is one of the photos, which demonstrates the exploded view of the gearbox
+Below is one of the screenshots, which demonstrates the exploded view of the gearbox
 ![Blueprint_demo](./screenshots/v1.png)
 
 Below is one of the blueprints, which demonstrates the technical drawing of lower housing part
@@ -39,6 +39,36 @@ Below is one of the blueprints, which demonstrates the technical drawing of lowe
 | 14 | M5 hex head bolt | | 7 | Standard hardware | Steel, class 8.8, zinc-plated | Used to fasten upper and lower housing parts |
 | 15 | M5 washer | |14 | Standard hardware | Steel, zinc-plated | Optional washer under bolt head |
 | 16 | M5 hex nut | | 7 | Standard hardware | Steel, class 8.8,  zinc-plated | Required if the lower housing is not threaded |
+
+#FEN-Study
+A simplified static FEM study was performed to visualize stress concentration in the gear tooth contact regions.
+
+Below is one of the screenshots, which demonstrates the local tooth - stress conecetration for the first stage of the gearbox
+![Stress in stage 1](./screenshots/fem_stage1/stage1_von_Mises_close.png)
+
+Below is one of the screenshots, which demonstrates the local tooth-stress conecetration for the second stage of the gearbox
+![Stress in stage 2](./screenshots/fem_stage1/stage2_von_Mises_close.png)
+
+The full-view screenshots with the results of FEM-study for both of the stage can be found in './screenshots' folder. They include stress-concentration, displacement and strain.
+
+| FEM Case | Load setup | Max von Mises | Yield strength | Safety Factor (FoS) |
+|---|---|---|---|---|
+| Stage 1 | 1$N\cdot$m torque on Gear A, Gear B constrained | 22.7 MPa | 220.6MPa | 9.7 |
+| Stage 2 | 3.13$N\cdot$m torque on Gear C, Gear D constrained | 17.4 MPa | 220.6 MPa | 12.7 |
+
+It was assumed the input torque 1$N\cdot m$ on Gear A, so that in the second stage the Gear C has torque approx 3.13 $N \cdot m$.
+According to this study, the maximal input torque could be  9.7$N\cdot m$.
+Below is the table of different possible input torques and safety levels
+
+| Safety Factor (FoS) | Input Torque |
+| --- | --- |
+| FoS 1.0 | 9.7 $N\cdot m$ |
+| FoS 1.5 | 6.5 $N \cdot m$ |
+| FoS 2.0 | 4.85 $N \cdot m$ |
+| FoS 3.0 | 3.2 $N\cdot m$|
+| FoS 5.0| 1.9 $N \cdot m
+
+These FEM studies are simplified static torque/contact checks
 
 # Bearings information
 The bearing geometry in this project is simplified and used as placeholder geometry for CAD layout purposes.
