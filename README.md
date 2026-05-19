@@ -4,7 +4,7 @@ The purpose of this project is not only to show a 3D model, but to demonstrate t
 Used software: SOLIDWORKS
 
 Below is the kinematic demonstration of the gearbox, with initial pinion speed of 100rpm
-![Kinematics_demo](gearbox_movement_gif.gif)
+![Kinematics_demo](gearbox_movement.gif)
 
 Below is one of the screenshots, which demonstrates the exploded view of the gearbox
 ![Blueprint_demo](./screenshots/v1.png)
