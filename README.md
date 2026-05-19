@@ -42,6 +42,7 @@ Below is one of the blueprints, which demonstrates the technical drawing of lowe
 
 # FEM-Studies
 A simplified static FEM study was performed to visualize stress concentration in the gear tooth contact regions.
+All of the gears were assigned to the material of "Plain Carbon Steel".
 
 Below is one of the screenshots, which demonstrates the local tooth - stress conecetration for the first stage of the gearbox
 ![Stress in stage 1](./screenshots/fem_stage1/stage1_von_Mises_close.png)
