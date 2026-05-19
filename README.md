@@ -66,7 +66,7 @@ Below is the table of different possible input torques and safety levels
 | FoS 1.5 | 6.5 $N \cdot m$ |
 | FoS 2.0 | 4.85 $N \cdot m$ |
 | FoS 3.0 | 3.2 $N\cdot m$|
-| FoS 5.0| 1.9 $N \cdot m
+| FoS 5.0| 1.9 $N\cdot m$ |
 
 These FEM studies are simplified static torque/contact checks
 
