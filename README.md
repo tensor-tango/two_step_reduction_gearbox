@@ -47,7 +47,7 @@ Below is one of the screenshots, which demonstrates the local tooth - stress con
 ![Stress in stage 1](./screenshots/fem_stage1/stage1_von_Mises_close.png)
 
 Below is one of the screenshots, which demonstrates the local tooth-stress conecetration for the second stage of the gearbox
-![Stress in stage 2](./screenshots/fem_stage1/stage2_von_Mises_close.png)
+![Stress in stage 2](./screenshots/fem_stage2/stage2_von_Mises_close.png)
 
 The full-view screenshots with the results of FEM-study for both of the stage can be found in './screenshots' folder. They include stress-concentration, displacement and strain.
 
